@@ -1,0 +1,240 @@
+[
+    {
+        "title": "The Miami Miracle",
+        "channel": "PhinsUp99",
+        "image": "https://www.al.com/resizer/FYn2FD8lj5w-r00lytoJnSjX1C8=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/4CLKIGFIAJGZTEUSHJAJCCAVOU.jpg",
+        "description": "In a thrilling football game, the Miami Dolphins pull off an astonishing last-second touchdown, defying all odds and leaving fans in awe of their incredible comeback.",
+        "views": "1,001,023",
+        "likes": "110,985",
+        "duration": "4:01",
+        "video": "https://project-2-api.herokuapp.com/stream",
+        "timestamp": 1626032763000,
+        "comments": [
+            {
+                "name": "Micheal Lyons",
+                "comment": "OMG! That last-second touchdown by the Dolphins was pure magic, I can't believe they pulled it off!",
+                "likes": 123,
+                "timestamp": 1628522461000
+            },
+            {
+                "name": "Gary Wong",
+                "comment": "This is why I love football! The Miami Miracle will go down in history as one of the greatest comebacks ever!",
+                "likes": 4,
+                "timestamp": 1626359541000
+            },
+            {
+                "name": "Theodore Duncan",
+                "comment": "PhinsUp99, you captured the epicness of that moment perfectly with this video! Goosebumps all over!",
+                "likes": 75,
+                "timestamp": 1626011132000
+            }
+        ],
+        "id": "84e96018-4022-434e-80bf-000ce4cd12b8"
+    },
+    {
+        "title": "Not in my house",
+        "channel": "Todd Welch",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5fd69a35fdee560e4a8a57c3/Xavien-Howard-intercepts-one-of-Patrick-Mahomes--passes-/0x0.jpg?crop=1560,1104,x0,y84,safe&height=503&width=711&fit=bounds",
+        "description": "",
+        "views": "2,043,765",
+        "likes": "400,058",
+        "duration": "7:26",
+        "video": "https://project-2-api.herokuapp.com/stream",
+        "timestamp": 1625158995000,
+        "comments": [
+            {
+                "name": "Mattie Casarez",
+                "comment": "Xavien Howard is an absolute beast! That interception against Mahomes shows why he's one of the best cornerbacks in the league!",
+                "likes": 320,
+                "timestamp": 1625250720000
+            },
+            {
+                "name": "Taylor Jade",
+                "comment": "Todd Welch, you caught the exact moment when Howard shut down Mahomes! Unbelievable play!",
+                "likes": 23,
+                "timestamp": 1625238122000
+            },
+            {
+                "name": "Adnan Natt",
+                "comment": "The Chiefs thought they could score, but Howard said 'Not in my house!' This defense is on fire!",
+                "likes": 56,
+                "timestamp": 1625177192000
+            }
+        ],
+        "id": "c05b9a93-8682-4ab6-aff2-92ebb4bbfc14"
+    },
+    {
+        "title": "Mike GriddSecky",
+        "channel": "Cornelia Blair",
+        "image": "https://www.nbcsports.com/sites/rsnunited/files/article/hero/mike-gesicki-griddy.jpg",
+        "description": "After making a remarkable touchdown catch, Dolphins tight end Mike Gesicki celebrates with a signature dance move known as the Griddy, showing off his energetic and playful personality on the field.",
+        "views": "16,950",
+        "likes": "3,856",
+        "duration": "4:13",
+        "video": "https://project-2-api.herokuapp.com/stream",
+        "timestamp": 1622991672000,
+        "comments": [
+            {
+                "name": "Giovana Alpine",
+                "comment": "Gesicki's touchdown catch was insane, and that Griddy dance just added to the excitement! Love his passion for the game!",
+                "likes": 2334,
+                "timestamp": 1623104591000
+            },
+            {
+                "name": "Victoire Lesage",
+                "comment": "Footballking27, thanks for sharing this video! Gesicki's skills and his celebration got me hyped up!",
+                "likes": 56,
+                "timestamp": 1623071160000
+            },
+            {
+                "name": "Sharon Tillson",
+                "comment": "Gesicki's catch and the Griddy have become iconic! Dolphins fans are lucky to have him!",
+                "likes": 534,
+                "timestamp": 1623002522000
+            }
+        ],
+        "id": "25ce5d91-a262-4dcf-bb87-42b87546bcfa"
+    },
+    {
+        "title": "All hail QB! - Tua 300 yard game",
+        "channel": "Xx_PhinsAddict_xX",
+        "image": "https://dolphinstalk.com/wp-content/uploads/2022/09/Tua129.jpg",
+        "description": "Tua Tagovailoa, the Dolphins' quarterback, impresses fans and critics alike by throwing for 300 yards in a game, demonstrating his prowess and earning accolades for his exceptional performance.",
+        "views": "72,342",
+        "likes": "8,785",
+        "duration": "2:59",
+        "video": "https://project-2-api.herokuapp.com/stream",
+        "timestamp": 1630656720000,
+        "comments": [
+            {
+                "name": "Felicia Hill",
+                "comment": "Tua's 300-yard game proves he's the real deal! The future looks bright for the Dolphins!",
+                "likes": 1324,
+                "timestamp": 1630790612000
+            },
+            {
+                "name": "Louis Applebee",
+                "comment": "Xx_PhinsAddict_xX, you captured Tua's incredible performance perfectly! He's showing everyone why he's the franchise quarterback!",
+                "likes": 63,
+                "timestamp": 1630762321000
+            },
+            {
+                "name": "Anne Weston",
+                "comment": "Tua is stepping up his game! 300 yards in a single game is no joke. Can't wait to see what he does next!",
+                "likes": 234,
+                "timestamp": 1630678260000
+            }
+        ],
+        "id": "1b964601-a6dd-4fcc-b5f3-1000338c9557"
+    },
+    {
+        "title": "Welcome to the league rookie | Waddle first TD",
+        "channel": "Ethan Owen",
+        "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0912%2Fr908282_1296x729_16%2D9.jpg",
+        "description": "Welcome to the league rookie | Waddle first TD: Dolphins' rookie wide receiver Jaylen Waddle scores his first-ever touchdown in the NFL, marking an exciting moment in his career and signaling the beginning of what promises to be a successful journey in professional football.",
+        "views": "345,987",
+        "likes": "76,588",
+        "duration": "12:26",
+        "video": "https://project-2-api.herokuapp.com/stream",
+        "timestamp": 1630963412000,
+        "comments": [
+            {
+                "name": "Marcus Forest",
+                "comment": "Jaylen Waddle is a superstar in the making! That first touchdown is just the beginning of his incredible journey!",
+                "likes": 123,
+                "timestamp": 1631273521000
+            },
+            {
+                "name": "Ashley Jones",
+                "comment": "Ethan Owen, thanks for sharing Waddle's first NFL touchdown! He's going to be a game-changer for the Dolphins!",
+                "likes": 5525,
+                "timestamp": 1631088092000
+            },
+            {
+                "name": "Dylan Walter",
+                "comment": "Waddle's first TD is a moment to remember! Welcome to the league, rookie! Exciting times ahead for the Dolphins!",
+                "likes": 234,
+                "timestamp": 1631023292000
+            }
+        ],
+        "id": "9c268c0a-83dc-4b96-856a-bb5ded2772b1"
+    },
+    {
+        "id": "fc5261d1-58a0-47e4-9c19-2b7a1715fa1b",
+        "title": "25 with 6 to the HOUSE!!",
+        "channel": "Xx_PhinsAddict_xX",
+        "image": "https://on3static.com/uploads/dev/assets/cms/2022/01/09160153/Xavien-Howard.jpg",
+        "description": "25 with 6 to the HOUSE!! Dive into the thrilling highlights of Xavien Howard's incredible interceptions and touchdown returns that left the crowd in awe. Watch as he skillfully navigates through opponents and secures victory for the team. A must-watch for any fan of the game!",
+        "views": "252,796",
+        "likes": "4,905",
+        "duration": "7:31",
+        "video": "https://project-2-api.herokuapp.com/stream",
+        "timestamp": 1631532721000,
+        "comments": [
+            {
+                "name": "Fionna Miller",
+                "comment": "25 with 6 to the HOUSE!! This play is a game-changer! Xavien Howard's skills and athleticism are unmatched. He definitely deserves all the recognition and praise!",
+                "likes": 6,
+                "timestamp": 1631816492000
+            },
+            {
+                "name": "Suzie Maxwell",
+                "comment": "I can't believe I witnessed 25 with 6 to the HOUSE!! live! Xavien Howard is a beast on the field. The way he reads the game and makes those interceptions is pure magic.",
+                "likes": 1,
+                "timestamp": 1631799181000
+            }
+        ]
+    },    
+    {
+        "id": "99478bed-6428-49ed-8eaa-f245a5414336",
+        "title": "Fitzmagic thats the title...",
+        "channel": "Timothy Austin",
+        "image": "https://www.yardbarker.com/media/f/7/f713c63eeb93f98b3e250a16f0d597ef12800692/thumb_16x9/ryan-fitzpatrick-makes-ridiculous-winning-pass.jpg?v=1",
+        "description": "Fitzmagic thats the title... Dive into the excitement of Ryan Fitzpatrick's remarkable winning pass that left everyone in awe. Witness the magic on the field as he delivers a perfect throw and leads the team to victory. This video showcases his incredible skills and clutch performances!",
+        "views": "29,984",
+        "likes": "2,552",
+        "duration": "5:58",
+        "video": "https://project-2-api.herokuapp.com/stream",
+        "timestamp": 1631892222000,
+        "comments": [
+            {
+                "name": "Jesse Cruz",
+                "comment": "Fitzmagic at its finest! Ryan Fitzpatrick never fails to impress. That winning pass was a game-changer. Can't wait to see more epic moments from him!",
+                "likes": 234,
+                "timestamp": 1632227521000
+            },
+            {
+                "name": "Tristan Carter",
+                "comment": "Ryan Fitzpatrick's skills are on another level! He always brings excitement to the field. Can't get enough of his incredible performances.",
+                "likes": 1923,
+                "timestamp": 1631976360000
+            }
+        ]
+    },    
+    {
+        "id": "76ca28c0-7dea-4553-887f-8e5129a80fc3",
+        "title": "Mr. Automatic | Sanders clutch FG",
+        "channel": "Scotty Cranmer",
+        "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BLWFZHNJ6ZKPBPXB3IXN5BF3IQ.jpg",
+        "description": "Mr. Automatic | Sanders clutch FG. Witness the brilliance of Jason Sanders as he kicks a clutch field goal to secure victory for the team. Experience the tension and excitement of this crucial moment as he calmly delivers under pressure. This video showcases the precision and reliability of Jason Sanders' kicking skills.",
+        "views": "3,092,284",
+        "likes": "75,985",
+        "duration": "4:20",
+        "video": "https://project-2-api.herokuapp.com/stream",
+        "timestamp": 1632344461000,
+        "comments": [
+            {
+                "name": "Martin Evergreen",
+                "comment": "Jason Sanders' kicking skills are simply unmatched! He always delivers when it matters the most, securing victory for the team. This clutch field goal is a testament to his precision and reliability. What an incredible performance!",
+                "likes": 3634,
+                "timestamp": 1632512763000
+            },
+            {
+                "name": "Emily Harper",
+                "comment": "I'm amazed by Jason Sanders' consistency and accuracy. His ability to make clutch field goals is truly remarkable. This video captures the excitement and tension of that crucial moment. Great job, Jason!",
+                "likes": 98,
+                "timestamp": 1632496261000
+            }
+        ]
+    }    
+]
